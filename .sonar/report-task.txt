@@ -1,0 +1,6 @@
+projectKey=demo:secrets
+serverUrl=https://latest.olivierk.ngrok.io
+serverVersion=2025.3.1.109879
+dashboardUrl=https://latest.olivierk.ngrok.io/dashboard?id=demo%3Asecrets
+ceTaskId=2464f791-91bf-48af-acad-5a152700685b
+ceTaskUrl=https://latest.olivierk.ngrok.io/api/ce/task?id=2464f791-91bf-48af-acad-5a152700685b

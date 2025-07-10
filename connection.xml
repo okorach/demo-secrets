@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<connections>
+
+<CorpConnectionSpec>
+   <name>Example connection</name>
+   <description>This is an example of how a connection should be setup</description>
+   <token>CORP_SECRET_0123456789</token>
+</CorpConnectionSpec>
+
+
+<CorpConnectionSpec>
+   <name>General connection</name>
+   <description>This is a way to connect to the company intranet</description>
+   <token>CORP_SECRET_6736695212</token>
+</CorpConnectionSpec>
+
+<info>
+Strings like VOID_CORP_SECRET_98427761110879348269236 are not secrets
+</info>
+
+
+
+<generalDescription>
+This file
+explains how to set
+up a connection to
+the company intranet.
+
+The company tokens use a CORP_SECRET_XXXXXXXXXX for such as CORP_SECRET_9842776111 
+</generalDescription>
+</connections>
